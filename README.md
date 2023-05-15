@@ -14,9 +14,12 @@ master's student at Porto university, in  software and computer engineer.
 Determination is one of my strong characteristics, giving in to all challenges and a symbol of my life.
 
 I am fluent in English, Russian, Portuguese, Turkish and I have knowledge of Spanish. I like to work in a team. I have a spirit of leading and being led..
-
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
-
+**Background in:** Python, Machine Learning, Python | Java script |
+PostgreSQL | Machine Learning
+Bibliotecas | Mysql | Google
+cloud Plantform | |BigQuery ||
+CSS &HTML | Apache Spark &
+solaır | Microsoft Office|Power BI, Tableu , Qlik sense.
 **Links:**
 
 * [LinkedIn](linkedin.com/in/temaco-mafumba)
